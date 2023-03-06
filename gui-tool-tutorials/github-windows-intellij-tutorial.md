@@ -85,7 +85,7 @@ Press Ctrl+Shift+K or choose VCS | Git | Push from the main menu. The Push Commi
 
 ## Submit your changes for review
 
-At this point you have completed your change but it still only resides in your repo. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
+At this point you have completed your change but it still only resides in your repository. This step will show you how to submit a request to the administrator of the top-level repo to merge your change.
 
 In your repo on GitHub you'll see the `Compare & pull request` button next to the new branch notification. Click on that button.
 
